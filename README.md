@@ -18,7 +18,7 @@ Welcome to PrepWise! An AI-powered platform that helps users practice unlimited 
 
 Job seekers often struggle with interview preparation, particularly when they don't have someone to practice with. Even when candidates know the material, they can blank during high-pressure interviews. Traditional preparation methods don't provide realistic practice or personalized feedback, leaving candidates underprepared for actual interviews.
 
-PrepWise creates an AI-powered platform that simulates realistic job interviews, allowing users to practice anytime and receive detailed feedback with secure authentication, personalized interview creation, real-time mock interviews with voice interaction, and detailed performance feedback.
+PrepWise creates an AI-powered platform that simulates realistic job interviews, allowing users to practice anytime with secure authentication, personalized interview creation, real-time mock interviews with voice interaction, and detailed performance feedback.
 
 **Technologies Used**: Next.js, TypeScript, Tailwind CSS, Firebase, Vapi, Google Gemini, Shadcn UI, React Hook Form, Zod.
 
